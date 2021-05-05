@@ -1,0 +1,8 @@
+C:\Develop\Visual Studio\BaseProject\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Develop\Visual Studio\BaseProject\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Develop\Visual Studio\BaseProject\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Develop\Visual Studio\BaseProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Develop\Visual Studio\BaseProject\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Develop\Visual Studio\BaseProject\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Develop\Visual Studio\BaseProject\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Develop\Visual Studio\BaseProject\Core\obj\Debug\netstandard2.1\Core.pdb
